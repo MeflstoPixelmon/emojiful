@@ -1,0 +1,32 @@
+- name: kekw
+  strings:
+    - ":kekw:"
+  location: "assets/custom/kekw.jpg"
+- name: roflan
+  strings:
+    - ":roflan:"
+  location: "assets/custom/roflan.png"
+- name: sadrofl
+  strings:
+    - ":sadrofl:"
+  location: "assets/custom/sadrofl.png"
+- name: fig
+  strings:
+    - ":fig:"
+  location: "assets/custom/fig.png"
+- name: unknown
+  strings:
+    - ":unknown:"
+  location: "assets/custom/unknown.png"
+- name: gigachad
+  strings:
+    - ":gigachad:"
+  location: "assets/custom/gigachad.jpg"
+- name: papich
+  strings:
+    - ":papich:"
+  location: "assets/custom/papich.jpg"
+- name: papich2
+  strings:
+    - ":papich2:"
+  location: "assets/custom/papich2.jpg"
