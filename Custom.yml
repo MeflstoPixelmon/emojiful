@@ -30,3 +30,7 @@
   strings:
     - ":papich2:"
   location: "assets/custom/papich2.jpg"
+- name: lox
+  strings:
+    - ":lox:"
+  location: "assets/custom/lox.png"
